@@ -1,0 +1,3 @@
+# RecursionError in Factorial Function
+
+This repository demonstrates a common error in recursive functions: forgetting to handle the base case properly.  The `factorial.py` file contains a function that calculates the factorial of a number.  However, this function does not correctly handle negative input values, resulting in a `RecursionError`. The `factorialSolution.py` demonstrates the correction.
